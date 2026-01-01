@@ -1,0 +1,101 @@
+[
+    {
+        "id": "g_phil_1",
+        "name": "Wiener Philharmoniker 1 oz",
+        "url": "https://www.philoro.at/.../wiener-philharmoniker-1oz",
+        "metal": "gold",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "g_krue_1",
+        "name": "Krügerrand 1 oz",
+        "url": "https://www.philoro.at/.../kruegerrand-1oz",
+        "metal": "gold",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "g_maple_1",
+        "name": "Canadian Maple Leaf 1 oz",
+        "url": "https://www.philoro.at/.../maple-leaf-1oz",
+        "metal": "gold",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "g_buff_1",
+        "name": "American Buffalo 1 oz",
+        "url": "https://www.philoro.at/.../american-buffalo-1oz",
+        "metal": "gold",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "g_brit_1",
+        "name": "Britannia 1 oz",
+        "url": "https://www.philoro.at/.../britannia-1oz",
+        "metal": "gold",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "g_bar_100",
+        "name": "Goldbarren 100 g",
+        "url": "https://www.philoro.at/.../goldbarren-100g",
+        "metal": "gold",
+        "fineInGrams": 100.0,
+        "selector": ""
+    },
+    {
+        "id": "g_bar_50",
+        "name": "Goldbarren 50 g",
+        "url": "https://www.philoro.at/.../goldbarren-50g",
+        "metal": "gold",
+        "fineInGrams": 50.0,
+        "selector": ""
+    },
+    {
+        "id": "s_phil_1",
+        "name": "Silber Philharmoniker 1 oz",
+        "url": "https://www.philoro.at/.../silber-philharmoniker-1oz",
+        "metal": "silver",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "s_maple_1",
+        "name": "Silber Maple Leaf 1 oz",
+        "url": "https://www.philoro.at/.../silber-maple-1oz",
+        "metal": "silver",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "s_bar_1000",
+        "name": "Silberbarren 1 kg",
+        "url": "https://www.philoro.at/.../silberbarren-1kg",
+        "metal": "silver",
+        "fineInGrams": 1000.0,
+        "selector": ""
+    },
+    {
+        "id": "pt_1oz",
+        "name": "Platin 1 oz",
+        "url": "https://www.philoro.at/.../platin-1oz",
+        "metal": "platinum",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    },
+    {
+        "id": "pd_1oz",
+        "name": "Palladium 1 oz",
+        "url": "https://www.philoro.at/.../palladium-1oz",
+        "metal": "palladium",
+        "fineInGrams": 31.1034768,
+        "selector": ""
+    }
+
+    /* Füge beliebig viele weitere Münzen/Barren hinzu; das Format bleibt gleich */
+    /* selector leer = Heuristik wird versucht; empfohlen: konkreten CSS selector eintragen */
+]
